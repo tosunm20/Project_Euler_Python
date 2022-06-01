@@ -1,4 +1,3 @@
-from ast import Return
 import math
 
 def check_prime(number):
