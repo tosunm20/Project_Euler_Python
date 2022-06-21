@@ -16,3 +16,4 @@ List of problems solved.
 * [Problem 10: Summation of primes] (https://projecteuler.net/problem=10)
 * [Problem 11: Largest product in a grid] (https://projecteuler.net/problem=11)
 * [Problem 16: Power digit sum] (https://projecteuler.net/problem=16)
+* [Problem 20: Factorial digit sum] (https://projecteuler.net/problem=20)
