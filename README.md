@@ -1,5 +1,5 @@
 # Project_Euler_Python
-I'm trying to improve my Python knowledge by solving Project Euler questions. https://projecteuler.net
+I'm trying to improve my knowledge of Python, Mathematics and Algorithms by solving Project Euler questions. https://projecteuler.net
 
 ## Solved
 List of problems solved.
