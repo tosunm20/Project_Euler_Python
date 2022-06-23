@@ -1,6 +1,3 @@
-from numpy import size
-
-
 a1 = 1
 a2 = 1
 
