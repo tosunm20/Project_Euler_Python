@@ -2,7 +2,7 @@
 I'm trying to improve my knowledge of Python, Mathematics and Algorithms by solving Project Euler questions. https://projecteuler.net
 
 ## Solved
-List of problems solved. (17/803)
+List of problems solved. (18/803)
 
 * [Problem 1: Multiples of 3 and 5] (https://projecteuler.net/problem=1)
 * [Problem 2: Even Fibonacci numbers] (https://projecteuler.net/problem=2)
@@ -21,3 +21,4 @@ List of problems solved. (17/803)
 * [Problem 15: Lattice paths] (https://projecteuler.net/problem=15)
 * [Problem 16: Power digit sum] (https://projecteuler.net/problem=16)
 * [Problem 20: Factorial digit sum] (https://projecteuler.net/problem=20)
+* [Problem 25: 1000-digit Fibonacci number] (https://projecteuler.net/problem=25)
