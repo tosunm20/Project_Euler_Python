@@ -2,7 +2,7 @@
 I'm trying to improve my knowledge of Python, Mathematics and Algorithms by solving Project Euler questions. https://projecteuler.net
 
 ## Solved
-List of problems solved. (21/100)
+List of problems solved. (22/100)
 
 * [Problem 1: Multiples of 3 and 5] (https://projecteuler.net/problem=1)
 * [Problem 2: Even Fibonacci numbers] (https://projecteuler.net/problem=2)
@@ -24,4 +24,5 @@ List of problems solved. (21/100)
 * [Problem 19: Counting Sundays] (https://projecteuler.net/problem=19)
 * [Problem 20: Factorial digit sum] (https://projecteuler.net/problem=20)
 * [Problem 21: Amicable numbers] (https://projecteuler.net/problem=21)
+* [Problem 22: Names scores] (https://projecteuler.net/problem=22)
 * [Problem 25: 1000-digit Fibonacci number] (https://projecteuler.net/problem=25)
