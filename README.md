@@ -2,7 +2,7 @@
 I'm trying to improve my knowledge of Python, Mathematics and Algorithms by solving Project Euler questions. https://projecteuler.net
 
 ## Solved
-List of problems solved. (22/100)
+List of problems solved. (23/100)
 
 * [Problem 1: Multiples of 3 and 5] (https://projecteuler.net/problem=1)
 * [Problem 2: Even Fibonacci numbers] (https://projecteuler.net/problem=2)
@@ -20,6 +20,7 @@ List of problems solved. (22/100)
 * [Problem 14: Longest Collatz sequence] (https://projecteuler.net/problem=14)
 * [Problem 15: Lattice paths] (https://projecteuler.net/problem=15)
 * [Problem 16: Power digit sum] (https://projecteuler.net/problem=16)
+* [Problem 17: Number Letter Counts] (https://projecteuler.net/problem=17)
 * [Problem 18: Maximum path sum I] (https://projecteuler.net/problem=18)
 * [Problem 19: Counting Sundays] (https://projecteuler.net/problem=19)
 * [Problem 20: Factorial digit sum] (https://projecteuler.net/problem=20)
