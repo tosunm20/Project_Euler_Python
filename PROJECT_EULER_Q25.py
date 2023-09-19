@@ -1,14 +1,30 @@
-a1 = 1
-a2 = 1
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 19 11:56:06 2023
 
-sayac = 2
-while True:
-    a3 = a1 + a2
-    a1 = a2
-    a2 = a3
-    if len(str(a3)) == 1000:
-        print(sayac + 1)
-        break
-    else:
-        sayac += 1
-        continue
+@author: 90545
+"""
+
+devir=0
+bolen = 2
+
+
+while bolen<1000:
+    
+    bolunen = 1
+    kalanlar = []
+    while True:
+        kalan = bolunen % bolen
+        if kalan in kalanlar:
+            first_kalan_index = kalanlar.index(kalan)
+            last_kalan_index = len(kalanlar)
+            if (last_kalan_index-first_kalan_index)>devir:
+                devir=last_kalan_index-first_kalan_index
+                num = bolen
+            break
+        bolunen = kalan * 10
+        kalanlar.append(kalan)
+            
+    bolen+=1
+
+print(num)
