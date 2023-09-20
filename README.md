@@ -30,3 +30,6 @@ List of problems solved. (25/100)
 * [Problem 24: Lexicographic Permutations] (https://projecteuler.net/problem=24)
 * [Problem 25: 1000-digit Fibonacci number] (https://projecteuler.net/problem=25)
 * [Problem 26: Reciprocal Cycles] (https://projecteuler.net/problem=26)
+* [Problem 27: Quadratic Primes] (https://projecteuler.net/problem=27)
+
+
